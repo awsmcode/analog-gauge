@@ -1,0 +1,27 @@
+{
+  "name": "analog-gauge",
+  "description": "Analog gauge visualization built on top of d3.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/awsmcode/analog-gauge.git",
+  "author": "AwsmCode (https://github.com/awsmcode/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/awsmcode/analog-gauge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/awsmcode/analog-gauge/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "keywords": [
+    "d3",
+    "analog",
+    "gauge",
+    "instrument"
+  ]
+}
